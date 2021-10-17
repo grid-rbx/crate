@@ -2,8 +2,6 @@
   <img src="https://qwesedpgitnehpycbbka.supabase.in/storage/v1/object/public/Public/crate-banner.png" />
 </p>
 
-# Crate
-
 Crate is a GraphQL wrapper of the Roblox API that allows you to receive the data you need.
 
 ## Usage
