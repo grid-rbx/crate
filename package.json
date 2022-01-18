@@ -1,0 +1,30 @@
+{
+  "name": "crate",
+  "version": "1.0.0",
+  "description": "GraphQL wrapper for the Roblox API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grid-rbx/crate.git"
+  },
+  "keywords": [
+    "roblox",
+    "graphql",
+    "crate",
+    "wrapper",
+    "gql"
+  ],
+  "author": "grid-rbx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grid-rbx/crate/issues"
+  },
+  "homepage": "https://github.com/grid-rbx/crate#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0"
+  }
+}
